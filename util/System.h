@@ -12,4 +12,9 @@ namespace System{
     };
 };
 
+template<typename T>
+class ArrayList{};
+
+int Integer(int n){ return n;}
+
 #endif
